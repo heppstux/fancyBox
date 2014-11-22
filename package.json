@@ -1,0 +1,15 @@
+{
+  "name": "fancyapps-fancybox",
+  "version": "2.1.5",
+  "author": "Janis Skarnelis",
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/fancyapps/fancyBox"
+  },
+  "licenses": [
+    {
+      "type": "CC BY-NC 3.0",
+      "url": "https://github.com/zurb/foundation/blob/master/LICENSE"
+    }
+  ]
+}
